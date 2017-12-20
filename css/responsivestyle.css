@@ -1,0 +1,95 @@
+@charset "utf-8";
+/* CSS Document */
+/* Portrait and Landscape */
+/* ----------- iPhone 4 and 4S ----------- */
+@media only screen 
+  and (min-width: 320px) 
+  and (max-width: 480px)
+ {
+	  
+	  .content-b h1 {
+	text-align:center;
+	font-size:18px;
+	font-weight:bold; 
+	color:#fff;
+	
+	line-height:px;
+	
+}
+
+.content-b h2 img {
+	text-align:center;
+	line-height:50px;}
+.content-b p {
+	text-align:center;
+	font-size:13px; 
+	color:#fff;
+	font-weight:200 !important;
+	line-height:27px;}
+	  
+.center_content{ text-align:center !important; margin-bottom:15px;}
+
+}
+
+/* ----------- iPhone 5 and 5S ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-width: 320px) 
+  and (max-width: 568px)
+{
+	  
+	   .content-b h1 {
+	text-align:center;
+	font-size:18px;
+	font-weight:bold; 
+	color:#fff;
+	
+	line-height:px;
+	
+}
+
+.content-b h2 img {
+	text-align:center;
+	line-height:50px;}
+.content-b p {
+	text-align:center;
+	font-size:13px; 
+	color:#fff;
+	font-weight:200 !important;
+	line-height:27px;}
+
+}
+
+
+/* ----------- iPhone 6 ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-width: 375px) 
+  and (max-width: 667px) 
+  { 
+  
+   .content-b h1 {
+	text-align:center;
+	font-size:18px;
+	font-weight:bold; 
+	color:#fff;
+	
+	line-height:px;
+	
+}
+
+.content-b h2 img {
+	text-align:center;
+	line-height:50px;}
+.content-b p {
+	text-align:center;
+	font-size:13px; 
+	color:#fff;
+	font-weight:200 !important;
+	line-height:27px;}
+  
+
+}
+

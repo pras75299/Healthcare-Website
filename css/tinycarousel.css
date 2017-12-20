@@ -1,0 +1,123 @@
+/* Tiny Carousel */
+#slider1 {
+    height: 1%;
+    margin: 30px 0 0;
+    overflow: hidden;
+    position: relative;
+    padding: 0 50px 10px;
+}
+
+#slider1 .viewport {
+    height: 360px;
+    overflow: hidden;
+    position: relative;
+}
+
+#slider1 .buttons {
+    background: #2ecfa7;
+    border-radius: 35px;
+    display: block;
+    position: absolute;
+    top: 33%;
+    left: 0;
+    width: 35px;
+    height: 35px;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    line-height: 35px;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+#slider1 .next {
+    right: 0;
+    left: auto;
+    top: 33%;
+}
+
+#slider1 .buttons:hover {
+    color: #C01313;
+    background: #0aa57f;
+}
+
+#slider1 .disable {
+    visibility: hidden;}
+
+
+#slider1 .overview {
+    list-style: none;
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    width: 240px;
+    left: 0;
+    top: 0;}
+
+
+#slider1 .overview li {
+    float: left;
+    margin: 0 48px 0 0;
+    padding: 1px;
+    height: 356px;
+    border: 1px solid #000;
+    width: 270px;}
+ 
+ 
+ 
+.product_cart_cl{ 
+     margin-top:8px;  
+	 margin-bottom:8px; 
+	 padding:0px !important;
+	 }
+.product_cart_cl h1{
+		font-size:22px; 
+		color:#a15a00; 
+		text-align:center;}
+ 
+.addto_cart_quick{ 
+        padding:15px !important}
+
+.addto_cart_quick a{ 
+       background-color:#7f3d17; 
+	   color:#fff; 
+	   padding:5px; 
+	   margin-top:2px; 
+	   margin-left:5px; 
+	   border:#333 solid 1px; 
+	   display:block; 
+	   text-align:center;}
+	   
+.addto_cart_quick a:hover{ 
+       background-color:#FFFFFF; 
+	   color:#000; 
+	   border:#333 solid 1px;} 
+
+
+.addto_cart_quick p{ 
+       font-weight:bold; 
+	   font-size:16px; 
+	   color:#C60;}
+	   
+.addto_cart_quick p span{ font-size:14px; display:block;
+}
+.shoppage_product{ padding:0px !important;}
+
+#easy_zoom{
+	width:600px;
+	height:400px;	
+	border:5px solid #eee;
+	background:#fff;
+	color:#333;
+	position:absolute;
+	top:110px;
+	left:600px;
+	overflow:hidden;
+	-moz-box-shadow:0 0 10px #777;
+	-webkit-box-shadow:0 0 10px #777;
+	box-shadow:0 0 10px #777;
+	/* vertical and horizontal alignment used for preloader text */
+	line-height:400px;
+	text-align:center;
+	}
+

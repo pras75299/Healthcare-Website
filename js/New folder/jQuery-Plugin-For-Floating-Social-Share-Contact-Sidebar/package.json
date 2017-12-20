@@ -1,0 +1,10 @@
+{
+  "name": "share-buttons-plugin",
+  "version": "0.1.0",
+  "repository": "https://github.com/joego/share-buttons-plugin",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-jshint": "*"
+  }
+}
