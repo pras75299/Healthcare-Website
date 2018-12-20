@@ -24,6 +24,9 @@
 
 ### Screenshots
 
+- **Home Page Image** 
+<img src="https://github.com/pras75299/Healthcare-Website/blob/master/images/home-healthcare.png?raw=true" width="50%" height="50%"/>
+
 
 ### Dependencies
 - Basically it’s the website for  Information about all major hospital in Delhi/NCR, and anyone can read the information, and see what services provided by each hospital and By submitting an enquiry for availability in hospital.
