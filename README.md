@@ -8,10 +8,10 @@
 - [Dependencies](#dependencies)
 
 
-### About Healthcare
+#### About Healthcare
 - Informational Website related to Healthcare, Details and Services provided by different hospitals, Details about them and Inquiry form for foreigners who want to use the facility in India.
 
-### Responsibility
+##### Responsibility
 - Template Design
 - Bug Fixing
 - Responsive Design Check
@@ -22,13 +22,13 @@
 - Logo Design
 
 
-### Screenshots
+###### Screenshots
 
 - **Home Page Image** 
 <img src="https://github.com/pras75299/Healthcare-Website/blob/master/images/home-healthcare.png?raw=true" width="50%" height="50%"/>
 
 
-### Dependencies
+###### Dependencies
 - Basically it’s the website for  Information about all major hospital in Delhi/NCR, and anyone can read the information, and see what services provided by each hospital and By submitting an enquiry for availability in hospital.
 
 
